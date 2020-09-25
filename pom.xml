@@ -8,7 +8,7 @@
   <groupId>org.beangle.jakarta</groupId>
   <artifactId>beangle-jakarta-parent</artifactId>
   <packaging>pom</packaging>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <name>Beangle Jakartaee Adapter</name>
 
   <url>https://github.com/beangle/beangle3</url>
