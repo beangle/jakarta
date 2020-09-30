@@ -8,7 +8,7 @@
   <groupId>org.beangle.jakarta</groupId>
   <artifactId>beangle-jakarta-dwr</artifactId>
   <packaging>jar</packaging>
-  <version>3.0.2-RELEASE</version>
+  <version>3.0.3-RELEASE</version>
   <name>Beangle jakarta DWR</name>
 
   <properties>
