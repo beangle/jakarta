@@ -22,7 +22,7 @@
 
     <converter id="null" class="org.directwebremoting.convert.NullConverter"/>
     <converter id="enum" class="org.directwebremoting.convert.EnumConverter"/>
-    <converter id="primitive" class="org.directwebremoting.convert.PrimitiveConverter"/>
+    <converter id="primitive" class="org.beangle.jakarta.dwr.PrimitiveConverter"/>
     <converter id="bignumber" class="org.directwebremoting.convert.BigNumberConverter"/>
     <converter id="string" class="org.directwebremoting.convert.StringConverter"/>
     <converter id="array" class="org.directwebremoting.convert.ArrayConverter"/>
